@@ -14,6 +14,7 @@ class Movie{
         }
 
         // used to cotrol what all ratings can be assigned
+        // Setters
 
         void setRating(string aRating){
             if(aRating == "G" || aRating == "PG" || aRating == "PG-13" || aRating == "R" || aRating == "NR"){
@@ -24,6 +25,7 @@ class Movie{
         }
 
         //  used to print the rating.
+        // Getters
         
         string getRating(){
             return rating;
