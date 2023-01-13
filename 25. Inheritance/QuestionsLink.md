@@ -1,0 +1,2 @@
+<a href="https://www.hackerrank.com/challenges/inheritance-introduction/problem?isFullScreen=true">Question 1</a>
+<a href="https://www.hackerrank.com/challenges/rectangle-area/problem?isFullScreen=true">Question 2</a>
